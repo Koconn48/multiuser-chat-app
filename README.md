@@ -1,4 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_KShvnrt)
+#To Run:
+
+Server: python3 src/server.py
+
+Client: python3 src/client.py localhost
+
 # Overview
 
 In this assignment you are asked to write a multiuser chat desktop application in Python using sockets. Users are uniquely identified by their login names. The client side of the application is multithreaded and must implement a GUI (Graphical User Interface). The communication between the client and the server follows a simple protocol described in the next section. 
